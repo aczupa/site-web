@@ -1,0 +1,1 @@
+Ceci est un exemple d'un simple site internet one page.
